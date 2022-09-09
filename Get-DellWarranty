@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@w159 
-w159
-/
-PowerShell-Warranty
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-PowerShell-Warranty/Get-DellWarranty
-@w159
-w159 Update Get-DellWarranty
-Latest commit dd7d94c 1 minute ago
- History
- 1 contributor
-63 lines (59 sloc)  3.25 KB
-
 $DellClientID = "YOURCLIENTID"
 $DellClientSecret = "YOURCLIENTSECRET"
 
