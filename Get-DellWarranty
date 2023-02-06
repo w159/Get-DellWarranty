@@ -1,5 +1,5 @@
-$DellClientID = "YOURCLIENTID"
-$DellClientSecret = "YOURCLIENTSECRET"
+#$DellClientID = "YOURCLIENTID"
+#$DellClientSecret = "YOURCLIENTSECRET"
 
 
 # This is a list of Service Level Codes that may be returned by the API that are not related to hardware warranties
